@@ -11,7 +11,7 @@ more_movies = [
   # {:title => 'CODA', :rating => 'PG-13',
   #   :release_date => '13-Aug-2021'}
   {:title => 'Memento', :rating => 'R',
-    :release_date => '16-Mar-2001'}
+    :release_date => '16-Mar-2001'},
   {:title => 'The Dark Knight', :rating => 'PG-13',
     :release_date => '18-Jul-2008'}
 ]
